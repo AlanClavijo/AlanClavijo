@@ -1,10 +1,10 @@
-#  Hi, my name is Diego Clavijo👋
+# ![https://alanclavijo.github.io/](https://github.com/AlanClavijo/AlanClavijo/blob/main/AlanDiegoCl.png) Hola, mi nombre es Alan D. Clavijo 👋
 ### I am a systems engineering student
 
 ![https://github.com/theLuckyhouse](./perfil2.png)
 
-![GitHub followers](https://img.shields.io/github/followers/theLuckyhouse)
-<br>
+![GitHub Followers](https://img.shields.io/github/followers/AlanClavijo?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/AlanClavijo?style=social)
 
 <h2>About me 😃</h2>
 <!--Intro start-->
@@ -13,9 +13,11 @@
 ### I have started to make modifications to my profile as proof and proof of my upcoming projects. 
 ### I like to learn new things and I want to share everything I learn. 
 
-## Find me at:
+## Encuéntrame en:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@diegocl-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/diego_cl_priv)
+[![Instagram](https://img.shields.io/badge/Instagram-@AlanDClavijo-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alan_diego_clavijo.l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_D_Clavijo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/alan-diego-clavijo-lagos)
+[![Web](https://img.shields.io/badge/Web-AlanWeb.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://alanclavijo.github.io/)
 
 <!--Intro end-->
   </p>
@@ -64,4 +66,3 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
