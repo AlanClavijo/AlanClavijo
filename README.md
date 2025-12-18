@@ -15,7 +15,7 @@
 
 ## Encuéntrame en:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@AlanDClavijo-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alan_diego_clavijo.l)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-@AlanDClavijo-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alan_diego_clavijo.l)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_D_Clavijo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/alan-diego-clavijo-lagos)
 [![Web](https://img.shields.io/badge/Web-AlanWeb.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://alanclavijo.github.io/)
 
